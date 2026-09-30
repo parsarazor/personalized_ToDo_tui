@@ -4,12 +4,6 @@ Terminal Kanban board with an Eisenhower-matrix backlog. Go + Bubble Tea.
 
 ![Kanban board screenshot](assets/todoapp.png)
 
-```
-┌ BACKLOG ─────────────┐ ┌ IN PROGRESS ┐ ┌ DONE ┐
-│ ┌ 1 DO NOW ┐┌ 2 ... ┐│ │             │ │      │
-│ ┌ 3 DELEGATE ┐┌ 4 ..┐│ │             │ │      │
-└──────────────────────┘ └─────────────┘ └──────┘
-```
 
 ## Run
 
