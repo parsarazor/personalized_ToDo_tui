@@ -1,3 +1,4 @@
 bin/
 *.tmp
 tasks.json
+.DS_Store

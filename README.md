@@ -2,7 +2,7 @@
 
 Terminal Kanban board with an Eisenhower-matrix backlog. Go + Bubble Tea.
 
-![Kanban board screenshot](assets/kanban-ui.svg)
+![Kanban board screenshot](assets/todoapp.png)
 
 ```
 ┌ BACKLOG ─────────────┐ ┌ IN PROGRESS ┐ ┌ DONE ┐
