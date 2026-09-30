@@ -58,3 +58,6 @@ Dependencies point inward: `ui → domain ← storage`. The UI only sees the
 
 To rename the module: `go mod edit -module github.com/you/kanban` and
 `grep -rl '"kanban/' . | xargs sed -i 's#"kanban/#"github.com/you/kanban/#'`.
+
+
+also for comfort I added scripts/install.sh and by running sh install.sh or ./install.sh you can access todo from any directory you would please!
